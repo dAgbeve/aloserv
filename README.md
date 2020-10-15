@@ -3,4 +3,4 @@ This is a mini server born out of the philosophy of learning by practice. To ful
 
 An object oriented approach was taken to cement my knowledge of the C language.
 
-The server is hosting my personal website at www.agbeve.com.
+It serves you at www.agbeve.com.
