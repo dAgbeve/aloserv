@@ -11,6 +11,7 @@
 !README
 !INSTALL
 !COPYING
+!ChangeLog
 !Makefile.am
 !configure.ac
 !src/Makefile.am
