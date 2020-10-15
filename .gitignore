@@ -11,6 +11,7 @@
 !README
 !INSTALL
 !Makefile.am
+!configure.ac
 !src/Makefile.am
 !src/server.c
 !src/server.h
