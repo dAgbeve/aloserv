@@ -10,6 +10,7 @@
 !NEWS
 !README
 !INSTALL
+!COPYING
 !Makefile.am
 !configure.ac
 !src/Makefile.am
