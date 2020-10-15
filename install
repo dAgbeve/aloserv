@@ -1,0 +1,9 @@
+#!/bin/sh
+
+set -e
+
+autoreconf -iv
+
+./configure
+
+make install
